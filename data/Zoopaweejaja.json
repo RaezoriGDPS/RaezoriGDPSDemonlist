@@ -1,0 +1,17 @@
+{
+    "id": 341,
+    "name": "Zoopa Wee Jaja",
+    "author": "ZorpikGMD",
+    "creators": [],
+    "verifier": "ZorpikGMD",
+    "verification": "https://www.youtube.com/watch?v=tphZuoscclE",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Raezori",
+            "link": "a",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 91,
+    "name": "Funhouse",
+    "author": "Deepstrider2",
+    "creators": [],
+    "verifier": "Deepstrider2",
+    "verification": "https://www.youtube.com/watch?v=JpGyujVhQYQ",
+    "percentToQualify": 77,
+    "records": [
+        {
+            "user": "Hamster",
+            "link": "a",
+            "percent": 100,
+            "hz": 144
+        }
+    
+    ]
+}

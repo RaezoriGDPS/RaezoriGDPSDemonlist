@@ -1,0 +1,17 @@
+{
+    "id": 130,
+    "name": "Maybe Just Happy",
+    "author": "cinderrblock",
+    "creators": [],
+    "verifier": "cinderrblock",
+    "verification": "https://www.youtube.com/watch?v=x-KRNwjmw3k",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "EvilEmperium",
+            "link": "a",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": 302,
+    "name": "Pentafunk",
+    "author": "Circlego",
+    "creators": [],
+    "verifier": "Circlego",
+    "verification": "https://www.youtube.com/watch?v=RDMVRfdg48U",
+    "percentToQualify": 63,
+    "records": [
+        {
+            "user": "ZorpikGMD",
+            "link": "https://www.youtube.com/watch?v=KgF7YvFk1mg",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

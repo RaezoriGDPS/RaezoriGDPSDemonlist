@@ -1,0 +1,41 @@
+{
+    "id": 120,
+    "name": "HELP YOURSELF",
+    "author": "voicechatping",
+    "creators": ["F1regek"],
+    "verifier": "voicechatping",
+    "verification": "https://www.youtube.com/watch?v=OYIgib_U8NQ",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Hamster",
+            "link": "a",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Raezori",
+            "link": "a",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "EvilEmperium",
+            "link": "https://youtu.be/ecFJsLoJlBI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "ZorpikGMD",
+            "link": "https://www.youtube.com/watch?v=SYi6DkeXF4g",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "cinderrblock",
+            "link": "a",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

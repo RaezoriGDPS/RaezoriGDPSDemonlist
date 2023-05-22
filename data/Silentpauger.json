@@ -1,0 +1,17 @@
+{
+    "id": 425,
+    "name": "Silent Pauger",
+    "author": "Raezori",
+    "creators": [],
+    "verifier": "Raezori",
+    "verification": "https://www.youtube.com/watch?v=IgJdRTbYMl0",
+    "percentToQualify": 73,
+    "records": [
+        {
+            "user": "ZorpikGMD",
+            "link": "https://www.youtube.com/watch?v=iN5UymTEVak",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": 280,
+    "name": "Tree Bus",
+    "author": "Circlego",
+    "creators": [],
+    "verifier": "Circlego",
+    "verification": "https://www.youtube.com/watch?v=cqzTMtGOKAE",
+    "percentToQualify": 84,
+    "records": [
+        {
+            "user": "ZorpikGMD",
+            "link": "https://youtu.be/BEkLN2mAdRY",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

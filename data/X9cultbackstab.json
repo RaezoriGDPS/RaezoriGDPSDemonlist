@@ -1,0 +1,17 @@
+{
+    "id": 478,
+    "name": "x9 Cult Backstab",
+    "author": "F1regek",
+    "creators": [],
+    "verifier": "NYX",
+    "verification": "https://www.youtube.com/watch?v=SypDxDNEiqE",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "EvilEmperium",
+            "link": "https://youtu.be/k86k3K8NPxk",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

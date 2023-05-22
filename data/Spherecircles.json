@@ -1,0 +1,35 @@
+{
+    "id": 64,
+    "name": "Sphere Circles",
+    "author": "Evil",
+    "creators": [
+       "EvilEmperium",
+       "YeckGrinding",
+       "natsujjr",
+       "SuperMe79",
+       "ESYR"
+    ],
+    "verifier": "YeckGrinding",
+    "verification": "https://www.youtube.com/watch?v=_rSVyFM4Erw",
+    "percentToQualify": 74,
+    "records": [
+        {
+            "user": "EvilEmperium",
+            "link": "a",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Hamster",
+            "link": "a",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "ZorpikGMD",
+            "link": "https://www.youtube.com/watch?v=uxNKb9GKDm4",
+            "percent": 100,
+            "hz": 144
+      }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "id": 185,
+    "name": "Madhouse",
+    "author": "Deepstrider2",
+    "creators": [],
+    "verifier": "EvilEmperium",
+    "verification": "https://www.youtube.com/watch?v=ZJb3v6TjOvg",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "Raezori",
+            "link": "a",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}

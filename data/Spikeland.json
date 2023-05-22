@@ -1,0 +1,23 @@
+{
+    "id": 511,
+    "name": "Spikeland",
+    "author": "Brapstu",
+    "creators": [],
+    "verifier": "Brapstu",
+    "verification": "https://youtu.be/6KCPIBJWJ4Q",
+    "percentToQualify": 72,
+    "records": [
+        {
+            "user": "EvilEmperium",
+            "link": "https://youtu.be/6KCPIBJWJ4Q",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Raezori",
+            "link": "a",
+            "percent": 100,
+            "hz": 288
+       }
+    ]
+}

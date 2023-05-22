@@ -1,0 +1,17 @@
+{
+    "id": 198,
+    "name": "TONE DEAF",
+    "author": "Deepstrider2",
+    "creators": [],
+    "verifier": "cinderrblock",
+    "verification": "https://www.youtube.com/watch?v=mRAXGReiK7c",
+    "percentToQualify": 92,
+    "records": [
+          {
+            "user": "EvilEmperium",
+            "link": "https://youtu.be/UC9jjbYPwmI",
+            "percent": 100,
+            "hz": 360
+          }
+    ]
+}

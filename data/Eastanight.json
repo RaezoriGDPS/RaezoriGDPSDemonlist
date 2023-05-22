@@ -1,0 +1,17 @@
+{
+    "id": 214,
+    "name": "Easta Night",
+    "author": "ZorpikGMD",
+    "creators": [],
+    "verifier": "ZorpikGMD",
+    "verification": "https://www.youtube.com/watch?v=GgGKJ-DIi6Y",
+    "percentToQualify": 70,
+    "records": [
+        {
+            "user": "Raezori",
+            "link": "https://www.youtube.com/watch?v=GgGKJ-DIi6Y",
+            "percent": 100,
+            "hz": 288
+         }
+    ]
+}

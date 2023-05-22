@@ -1,0 +1,24 @@
+[
+    {
+        "role": "owner",
+        "name": "Raezori",
+        "link": "https://www.youtube.com/channel/UC2HOxc11lGMnB28rZbznkzA"
+    },
+    {
+        "role": "admin",
+        "name": "Deepstrider2",
+        "link": "https://www.youtube.com/@deepstrider2"
+
+    },
+    {
+        "role": "admin",
+        "name": "EvilEmperium",
+        "link": "https://www.youtube.com/@EvilEmperium"
+
+    },
+    {
+        "role": "dev",
+        "name": "Prometheus",
+        "link": "https://www.youtube.com/c/PrometheusAlt"
+    }
+]

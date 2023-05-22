@@ -1,0 +1,17 @@
+{
+    "id": 161,
+    "name": "End Of All",
+    "author": "N0FACE (ShadowAxeKid)",
+    "creators": [],
+    "verifier": "ShadowAxeKid",
+    "verification": "https://www.youtube.com/watch?v=pam28iEIW-M",
+    "percentToQualify": 88,
+    "records": [
+        {
+            "user": "EvilEmperium",
+            "link": "https://www.youtube.com/watch?v=pam28iEIW-M",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

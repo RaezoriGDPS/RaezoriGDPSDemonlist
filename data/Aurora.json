@@ -1,0 +1,23 @@
+{
+    "id": 160,
+    "name": "Aurora",
+    "author": "EmeraldOre45",
+    "creators": [],
+    "verifier": "EmeraldOre45",
+    "verification": "https://www.youtube.com/watch?v=RQVmllWgT-w",
+    "percentToQualify": 48,
+    "records": [
+        {
+            "user": "Raezori",
+            "link": "https://www.youtube.com/watch?v=RQVmllWgT-w",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "EvilEmperium",
+            "link": "a",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

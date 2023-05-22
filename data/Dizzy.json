@@ -1,0 +1,23 @@
+{
+    "id": 118,
+    "name": "Dizzy",
+    "author": "F1regek",
+    "creators": [],
+    "verifier": "Hamster",
+    "verification": "https://www.youtube.com/watch?v=YEj5jXvHWz0",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "EvilEmperium",
+            "link": "a",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Deepstrider2",
+            "link": "a",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

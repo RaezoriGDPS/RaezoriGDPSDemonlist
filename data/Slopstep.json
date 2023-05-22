@@ -1,0 +1,29 @@
+{
+    "id": 318,
+    "name": "Slopstep",
+    "author": "Circlego",
+    "creators": [],
+    "verifier": "Circlego",
+    "verification": "https://www.youtube.com/watch?v=RHXxENzG1M4",
+    "percentToQualify": 69,
+    "records": [
+        {
+            "user": "Raezori",
+            "link": "a",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "ZorpikGMD",
+            "link": "https://www.youtube.com/watch?v=SGz_0dZ2iQ4&t=15s",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "EvilEmperium",
+            "link": "a",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": 316,
+    "name": "Go Now III",
+    "author": "Alinithon",
+    "creators": [],
+    "verifier": "Alinithon",
+    "verification": "https://www.youtube.com/watch?v=gVAE134RsYA",
+    "percentToQualify": 11,
+    "records": [
+        {
+            "user": "Raezori",
+            "link": "a",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "ZorpikGMD",
+            "link": "https://www.youtube.com/watch?v=DlBuyhxcwq4",
+            "percent": 100,
+            "hz": 144
+        }
+    ]
+}

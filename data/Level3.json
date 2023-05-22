@@ -1,0 +1,23 @@
+{
+    "id": 367,
+    "name": "Level 3",
+    "author": "Circlego",
+    "creators": [],
+    "verifier": "Circlego",
+    "verification": "https://www.youtube.com/watch?v=EZbz_EyEfrM",
+    "percentToQualify": 81,
+    "records": [
+        {
+            "user": "ZorpikGMD",
+            "link": "https://www.youtube.com/watch?v=EZbz_EyEfrM",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Raezori",
+            "link": "a",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
