@@ -9,15 +9,15 @@
     "records": [
         {
             "user": "EvilEmperium",
-            "link": "a",
+            "link": "https://cdn.discordapp.com/attachments/1025706987205447790/1045911243074052207/Raezorigdps_-_Copy_Screenshot_2022.11.25_-_22.57.29.02.png",
             "percent": 100,
-            "hz": 360
+            "hz": 165
         },
         {
             "user": "ZorpikGMD",
             "link": "a",
             "percent": 100,
-            "hz": 144
+            "hz": 240
         }
     ]
 }
