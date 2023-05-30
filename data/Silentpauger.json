@@ -11,7 +11,13 @@
             "user": "ZorpikGMD",
             "link": "https://www.youtube.com/watch?v=iN5UymTEVak",
             "percent": 100,
-            "hz": 144
+            "hz": 240
+        },
+        {
+            "user": "EvilEmperium",
+            "link": "https://youtu.be/Y3aj0hXok1o",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
