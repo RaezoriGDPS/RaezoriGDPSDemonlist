@@ -9,15 +9,15 @@
     "records": [
         {
             "user": "EvilEmperium",
-            "link": "a",
+            "link": "https://youtu.be/iALPX34qGR0",
             "percent": 100,
-            "hz": 360
+            "hz": 165
         },
         {
             "user": "ZorpikGMD",
             "link": "https://www.youtube.com/watch?v=SucS4FCj8xw",
             "percent": 100,
-            "hz": 144
+            "hz": 240
         }
     ]
 }
