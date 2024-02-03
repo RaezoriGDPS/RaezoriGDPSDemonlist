@@ -6,5 +6,12 @@
     "verifier": "ZorpikGMD",
     "verification": "https://www.youtube.com/watch?v=wxuD9h2nGQM",
     "percentToQualify": 57,
-    "records": []
+    "records": [
+        {
+            "user": "Raezori",
+            "link": "https://www.youtube.com/watch?v=OtSX6iTZcNE",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
