@@ -30,6 +30,12 @@
             "link": "https://www.youtube.com/watch?v=uxNKb9GKDm4",
             "percent": 100,
             "hz": 240
+      },
+         {
+            "user": "BigRator",
+            "link": "https://www.youtube.com/watch?v=vQaIXBnLwYk&t=9s4",
+            "percent": 100,
+            "hz": 240
       }
     ]
 }
