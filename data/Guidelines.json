@@ -6,5 +6,12 @@
     "verifier": "EvilEmperium",
     "verification": "https://www.youtube.com/watch?v=Ln3uzJxQFI8&t=80s",
     "percentToQualify": 83,
-    "records": []
+    "records": [
+        {
+            "user": "BigRator",
+            "link": "https://www.youtube.com/watch?v=alSW0s5MHoQ&t=41s",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
