@@ -12,6 +12,12 @@
             "link": "https://www.youtube.com/watch?v=06OPWzpYUMg&ab_channel=Mysteriongamer",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "EvilEmperium",
+            "link": "https://youtu.be/shzwY4ZvdiE",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
